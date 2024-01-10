@@ -20,7 +20,7 @@ a. One school believes that transformative technological knowledge is broadly ap
 b. Another school emphasizes that new technologies are attached to specific conditions and characteristics of production, hindering their diffusion to other contexts. Inappropriatetechnology hypothesis suggests that innovation focus on local conditions inhibits global productivity benefits.
 
 
-
+[dummy text](http://fillerama.io/)
 
 
 
