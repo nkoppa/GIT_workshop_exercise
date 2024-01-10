@@ -29,6 +29,8 @@ github_username:  jekyll
 
 # Build settings
 theme: minima to theme: jekyll-theme-architect
+plugins:
+- jekyll-feed
 #header_pages:
 #  - 01-about.markdown
 
