@@ -28,10 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
+theme: minima to theme: jekyll-theme-architect
 #header_pages:
 #  - 01-about.markdown
 
